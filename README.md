@@ -5,7 +5,7 @@ o avaliador seleciona área, riscos e controles em campos de seleção com escal
 vê o risco inerente e o residual calculados na hora e, ao final, exporta a **matriz de
 riscos em Excel** para revisão do analista.
 
-## Instalação (Omarchy / Arch)
+## Instalação (No meu caso, estou usando Omarchy / Arch), no windows, basta criar o mesmo arquivo com final .bd
 
 ```bash
 chmod +x instalar.sh
